@@ -1,0 +1,1 @@
+python3 main.py --dataset="CICIoT2023" --n_iter=30 --epochs=20 --lr=0.01 --decay=0.9 --mu=0.1 --percent_of_stragglers=8
