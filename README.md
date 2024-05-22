@@ -14,5 +14,3 @@ If you would like to run our codes:
 * For baseline FedProx(baseline 2), the author suggests to tune the mu value from [0.001, 0.01, 0.1, 0.5, 1].
 * We used a small portion of the original datasets. As a reference, a Nivida RTX 3060 (12GB) GPU requires ~ 8 hours to train 1 million data points for each dataset. You can increase the data volume basd on your GPU capability.
 * The program stores the testing accuracy and training loss of the global model on each global round as the training results.
-
-## Preparation
